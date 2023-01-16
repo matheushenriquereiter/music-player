@@ -31,6 +31,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um player de música responsivo.
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050524500542670). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença GPL-3.0.
